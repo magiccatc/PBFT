@@ -1,0 +1,12 @@
+公钥和私钥生成成功
+当前时间：2024-03-03 13:24:52.242792292 +0800 CST m=+0.000317334
+2024/03/03 13:24:52 listen tcp 127.0.0.1:8080: bind: address already in use
+panic: listen tcp 127.0.0.1:8080: bind: address already in use
+
+goroutine 6 [running]:
+log.Panic({0xc000171f88?, 0x0?, 0xc000016940?})
+	/usr/local/go/src/log/log.go:385 +0x65
+main.(*pbft).tcpListen(0xc0001da000)
+	/root/rspbft/PBFTgroup/pbft/tcp.go:58 +0x9e
+created by main.main
+	/root/rspbft/PBFTgroup/pbft/main.go:101 +0x16d

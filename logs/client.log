@@ -1,0 +1,1767 @@
+公钥和私钥生成成功
+客户端开启监听，地址：127.0.0.1:8888
+ ---------------------------------------------------------------------------------
+|  已进入PBFT测试Demo客户端，请启动全部节点后再发送消息！ :)  |
+ ---------------------------------------------------------------------------------
+请在下方输入要存入节点的信息：
+当前时间：2024-03-03 15:46:41.847567348 +0800 CST m=+0.000496209
+准备接受信息了
+读取./clientfile/req0.txt成功！
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为3ms。reply完毕,用时27ms。N38节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为3ms。reply完毕,用时27ms。N38节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为8ms。reply完毕,用时58ms。N37节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为8ms。reply完毕,用时58ms。N37节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为4ms。reply完毕,用时64ms。N15节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为4ms。reply完毕,用时64ms。N15节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为6ms。reply完毕,用时69ms。N19节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为6ms。reply完毕,用时69ms。N19节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为8ms。reply完毕,用时71ms。N29节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为8ms。reply完毕,用时71ms。N29节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为10ms。reply完毕,用时69ms。N13节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为10ms。reply完毕,用时69ms。N13节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为11ms。reply完毕,用时74ms。N28节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为11ms。reply完毕,用时74ms。N28节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为9ms。reply完毕,用时74ms。N45节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为9ms。reply完毕,用时74ms。N45节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为12ms。reply完毕,用时69ms。N2节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为12ms。reply完毕,用时69ms。N2节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为12ms。reply完毕,用时81ms。N0节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为12ms。reply完毕,用时81ms。N0节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为14ms。reply完毕,用时80ms。N5节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为14ms。reply完毕,用时80ms。N5节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为17ms。reply完毕,用时83ms。N12节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为17ms。reply完毕,用时83ms。N12节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时86ms。N14节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时86ms。N14节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为19ms。reply完毕,用时82ms。N49节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为19ms。reply完毕,用时82ms。N49节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时88ms。N25节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时88ms。N25节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时88ms。N4节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时88ms。N4节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为25ms。reply完毕,用时91ms。N16节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为25ms。reply完毕,用时91ms。N16节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为23ms。reply完毕,用时91ms。N31节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为23ms。reply完毕,用时91ms。N31节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为25ms。reply完毕,用时82ms。N7节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为25ms。reply完毕,用时82ms。N7节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为26ms。reply完毕,用时89ms。N6节点已将msgid:2577313535存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为23ms。reply完毕,用时90ms。N9节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为26ms。reply完毕,用时89ms。N6节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为23ms。reply完毕,用时90ms。N9节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为27ms。reply完毕,用时92ms。N10节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为27ms。reply完毕,用时92ms。N10节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为26ms。reply完毕,用时92ms。N8节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为26ms。reply完毕,用时92ms。N8节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为27ms。reply完毕,用时94ms。N34节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为27ms。reply完毕,用时94ms。N34节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为28ms。reply完毕,用时97ms。N18节点已将msgid:2577313535存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为29ms。reply完毕,用时92ms。N30节点已将msgid:2577313535存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为30ms。reply完毕,用时93ms。N11节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为28ms。reply完毕,用时97ms。N18节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为29ms。reply完毕,用时92ms。N30节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为30ms。reply完毕,用时93ms。N11节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为24ms。reply完毕,用时91ms。N48节点已将msgid:2577313535存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为30ms。reply完毕,用时93ms。N46节点已将msgid:2577313535存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为29ms。reply完毕,用时97ms。N40节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为24ms。reply完毕,用时91ms。N48节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为30ms。reply完毕,用时93ms。N46节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为29ms。reply完毕,用时97ms。N40节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为31ms。reply完毕,用时97ms。N21节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为31ms。reply完毕,用时97ms。N21节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为32ms。reply完毕,用时93ms。N41节点已将msgid:2577313535存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为31ms。reply完毕,用时96ms。N43节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为32ms。reply完毕,用时93ms。N41节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为31ms。reply完毕,用时96ms。N43节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为32ms。reply完毕,用时91ms。N42节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为32ms。reply完毕,用时91ms。N42节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为31ms。reply完毕,用时97ms。N24节点已将msgid:2577313535存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为28ms。reply完毕,用时91ms。N35节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为31ms。reply完毕,用时97ms。N24节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为28ms。reply完毕,用时91ms。N35节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为31ms。reply完毕,用时97ms。N3节点已将msgid:2577313535存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为34ms。reply完毕,用时96ms。N27节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为31ms。reply完毕,用时97ms。N3节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为29ms。reply完毕,用时91ms。N26节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为34ms。reply完毕,用时96ms。N27节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为29ms。reply完毕,用时91ms。N26节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为30ms。reply完毕,用时97ms。N36节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为30ms。reply完毕,用时97ms。N36节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为31ms。reply完毕,用时95ms。N33节点已将msgid:2577313535存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为25ms。reply完毕,用时96ms。N1节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为31ms。reply完毕,用时95ms。N33节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为25ms。reply完毕,用时96ms。N1节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为34ms。reply完毕,用时91ms。N20节点已将msgid:2577313535存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为33ms。reply完毕,用时96ms。N44节点已将msgid:2577313535存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为33ms。reply完毕,用时96ms。N22节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为34ms。reply完毕,用时91ms。N20节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为33ms。reply完毕,用时96ms。N44节点已将msgid:2577313535存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为33ms。reply完毕,用时97ms。N39节点已将msgid:2577313535存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时97ms。N47节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为33ms。reply完毕,用时96ms。N22节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为33ms。reply完毕,用时97ms。N39节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时97ms。N47节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为29ms。reply完毕,用时97ms。N17节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为29ms。reply完毕,用时97ms。N17节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为34ms。reply完毕,用时96ms。N23节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为34ms。reply完毕,用时96ms。N23节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为29ms。reply完毕,用时94ms。N32节点已将msgid:2577313535存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为29ms。reply完毕,用时94ms。N32节点已将msgid:2577313535存入本地消息池中.
+准备接受信息了
+读取./clientfile/req1.txt成功！
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为3ms。reply完毕,用时18ms。N48节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为3ms。reply完毕,用时18ms。N48节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为4ms。reply完毕,用时20ms。N33节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为4ms。reply完毕,用时20ms。N33节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为5ms。reply完毕,用时19ms。N28节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为5ms。reply完毕,用时19ms。N28节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为6ms。reply完毕,用时22ms。N43节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为6ms。reply完毕,用时22ms。N43节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为7ms。reply完毕,用时22ms。N22节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为7ms。reply完毕,用时22ms。N22节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为7ms。reply完毕,用时23ms。N31节点已将msgid:2548828360存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为7ms。reply完毕,用时21ms。N41节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为7ms。reply完毕,用时23ms。N31节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为7ms。reply完毕,用时21ms。N41节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为7ms。reply完毕,用时23ms。N27节点已将msgid:2548828360存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为7ms。reply完毕,用时23ms。N40节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为7ms。reply完毕,用时23ms。N27节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为7ms。reply完毕,用时23ms。N40节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为10ms。reply完毕,用时26ms。N34节点已将msgid:2548828360存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为13ms。reply完毕,用时28ms。N42节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为10ms。reply完毕,用时26ms。N34节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为13ms。reply完毕,用时28ms。N42节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为12ms。reply完毕,用时27ms。N29节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为12ms。reply完毕,用时27ms。N29节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为14ms。reply完毕,用时29ms。N36节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为14ms。reply完毕,用时29ms。N36节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为13ms。reply完毕,用时29ms。N35节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为13ms。reply完毕,用时29ms。N35节点已将msgid:2548828360存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为16ms。reply完毕,用时31ms。N26节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为16ms。reply完毕,用时31ms。N26节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为17ms。reply完毕,用时33ms。N24节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为17ms。reply完毕,用时33ms。N24节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时33ms。N39节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时33ms。N39节点已将msgid:2548828360存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时34ms。N30节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时34ms。N30节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为16ms。reply完毕,用时34ms。N21节点已将msgid:2548828360存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时34ms。N47节点已将msgid:2548828360存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为20ms。reply完毕,用时35ms。N13节点已将msgid:2548828360存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为16ms。reply完毕,用时33ms。N46节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为16ms。reply完毕,用时34ms。N21节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时34ms。N47节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为20ms。reply完毕,用时35ms。N13节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为16ms。reply完毕,用时33ms。N46节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为19ms。reply完毕,用时33ms。N15节点已将msgid:2548828360存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为17ms。reply完毕,用时34ms。N25节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为19ms。reply完毕,用时33ms。N15节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为17ms。reply完毕,用时34ms。N25节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为20ms。reply完毕,用时37ms。N0节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为20ms。reply完毕,用时37ms。N0节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时35ms。N44节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时35ms。N44节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时35ms。N23节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时35ms。N23节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为15ms。reply完毕,用时35ms。N20节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为15ms。reply完毕,用时35ms。N20节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时35ms。N14节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时35ms。N14节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为17ms。reply完毕,用时35ms。N37节点已将msgid:2548828360存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为20ms。reply完毕,用时36ms。N10节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为17ms。reply完毕,用时35ms。N37节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为20ms。reply完毕,用时36ms。N10节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时37ms。N11节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时37ms。N11节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时36ms。N18节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时36ms。N18节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时37ms。N5节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时37ms。N5节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时37ms。N8节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时37ms。N8节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为20ms。reply完毕,用时36ms。N1节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为20ms。reply完毕,用时36ms。N1节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时37ms。N7节点已将msgid:2548828360存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时38ms。N17节点已将msgid:2548828360存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时38ms。N6节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时37ms。N7节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时38ms。N17节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时38ms。N6节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为20ms。reply完毕,用时38ms。N4节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为20ms。reply完毕,用时38ms。N4节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时37ms。N16节点已将msgid:2548828360存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时37ms。N19节点已将msgid:2548828360存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时37ms。N3节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时37ms。N16节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时37ms。N19节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时37ms。N3节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时37ms。N45节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时37ms。N45节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为19ms。reply完毕,用时37ms。N2节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为19ms。reply完毕,用时37ms。N2节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为20ms。reply完毕,用时37ms。N9节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为20ms。reply完毕,用时37ms。N9节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时37ms。N12节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时37ms。N12节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为19ms。reply完毕,用时82ms。N32节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为19ms。reply完毕,用时82ms。N32节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为15ms。reply完毕,用时83ms。N38节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为15ms。reply完毕,用时83ms。N38节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为13ms。reply完毕,用时82ms。N49节点已将msgid:2548828360存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为13ms。reply完毕,用时82ms。N49节点已将msgid:2548828360存入本地消息池中.
+准备接受信息了
+读取./clientfile/req2.txt成功！
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为1ms。reply完毕,用时16ms。N16节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为1ms。reply完毕,用时16ms。N16节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为2ms。reply完毕,用时14ms。N1节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为2ms。reply完毕,用时14ms。N1节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为3ms。reply完毕,用时20ms。N0节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为3ms。reply完毕,用时20ms。N0节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为5ms。reply完毕,用时16ms。N10节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为5ms。reply完毕,用时16ms。N10节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为6ms。reply完毕,用时20ms。N39节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为6ms。reply完毕,用时20ms。N39节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为5ms。reply完毕,用时18ms。N3节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为5ms。reply完毕,用时18ms。N3节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为6ms。reply完毕,用时21ms。N6节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为6ms。reply完毕,用时21ms。N6节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为3ms。reply完毕,用时21ms。N11节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为3ms。reply完毕,用时21ms。N11节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为10ms。reply完毕,用时19ms。N35节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为10ms。reply完毕,用时19ms。N35节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为11ms。reply完毕,用时27ms。N38节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为11ms。reply完毕,用时27ms。N38节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为12ms。reply完毕,用时29ms。N8节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为12ms。reply完毕,用时29ms。N8节点已将msgid:8675249769存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为13ms。reply完毕,用时25ms。N29节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为13ms。reply完毕,用时25ms。N29节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为14ms。reply完毕,用时29ms。N17节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为14ms。reply完毕,用时29ms。N17节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为14ms。reply完毕,用时24ms。N5节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为14ms。reply完毕,用时24ms。N5节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为13ms。reply完毕,用时23ms。N9节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为13ms。reply完毕,用时23ms。N9节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为13ms。reply完毕,用时25ms。N37节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为13ms。reply完毕,用时25ms。N37节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为15ms。reply完毕,用时31ms。N27节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为15ms。reply完毕,用时31ms。N27节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为16ms。reply完毕,用时25ms。N7节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为16ms。reply完毕,用时25ms。N7节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为16ms。reply完毕,用时26ms。N12节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为16ms。reply完毕,用时26ms。N12节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为16ms。reply完毕,用时33ms。N21节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为16ms。reply完毕,用时33ms。N21节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为16ms。reply完毕,用时28ms。N14节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为16ms。reply完毕,用时28ms。N14节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为17ms。reply完毕,用时33ms。N15节点已将msgid:8675249769存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时35ms。N49节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为17ms。reply完毕,用时33ms。N15节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时27ms。N31节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时35ms。N49节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时27ms。N31节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时35ms。N32节点已将msgid:8675249769存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为16ms。reply完毕,用时29ms。N18节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时35ms。N32节点已将msgid:8675249769存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时29ms。N25节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为16ms。reply完毕,用时29ms。N18节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时29ms。N25节点已将msgid:8675249769存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时32ms。N26节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时32ms。N26节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时29ms。N19节点已将msgid:8675249769存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时36ms。N43节点已将msgid:8675249769存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时32ms。N41节点已将msgid:8675249769存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时37ms。N40节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为18ms。reply完毕,用时29ms。N19节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时36ms。N43节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时32ms。N41节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时37ms。N40节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时37ms。N46节点已将msgid:8675249769存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时37ms。N42节点已将msgid:8675249769存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时38ms。N13节点已将msgid:8675249769存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时37ms。N34节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时37ms。N46节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时37ms。N42节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时38ms。N13节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时37ms。N34节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时37ms。N44节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时37ms。N44节点已将msgid:8675249769存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时33ms。N23节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时33ms。N23节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时39ms。N36节点已将msgid:8675249769存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为24ms。reply完毕,用时39ms。N30节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时39ms。N36节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为24ms。reply完毕,用时39ms。N30节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为24ms。reply完毕,用时39ms。N22节点已将msgid:8675249769存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时32ms。N48节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为24ms。reply完毕,用时39ms。N22节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时32ms。N48节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为23ms。reply完毕,用时39ms。N33节点已将msgid:8675249769存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为23ms。reply完毕,用时39ms。N2节点已将msgid:8675249769存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为24ms。reply完毕,用时33ms。N24节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为23ms。reply完毕,用时39ms。N33节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为23ms。reply完毕,用时39ms。N2节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为23ms。reply完毕,用时39ms。N45节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为24ms。reply完毕,用时33ms。N24节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为23ms。reply完毕,用时39ms。N45节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为24ms。reply完毕,用时40ms。N20节点已将msgid:8675249769存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为24ms。reply完毕,用时39ms。N47节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为24ms。reply完毕,用时40ms。N20节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为24ms。reply完毕,用时39ms。N47节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为29ms。reply完毕,用时106ms。N28节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为29ms。reply完毕,用时106ms。N28节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为37ms。reply完毕,用时107ms。N4节点已将msgid:8675249769存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为37ms。reply完毕,用时107ms。N4节点已将msgid:8675249769存入本地消息池中.
+准备接受信息了
+读取./clientfile/req3.txt成功！
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为64ms。reply完毕,用时79ms。N17节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为64ms。reply完毕,用时79ms。N17节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为65ms。reply完毕,用时80ms。N40节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为65ms。reply完毕,用时80ms。N40节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为65ms。reply完毕,用时80ms。N6节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为65ms。reply完毕,用时80ms。N6节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为65ms。reply完毕,用时74ms。N37节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为65ms。reply完毕,用时74ms。N37节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时83ms。N9节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时83ms。N9节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时84ms。N4节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时84ms。N4节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时82ms。N14节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时82ms。N14节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时81ms。N19节点已将msgid:3687700013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时85ms。N15节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时81ms。N19节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时85ms。N15节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时79ms。N41节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时79ms。N41节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时85ms。N8节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时85ms。N8节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时85ms。N11节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时85ms。N11节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为71ms。reply完毕,用时85ms。N16节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为71ms。reply完毕,用时85ms。N16节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时85ms。N42节点已将msgid:3687700013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时87ms。N3节点已将msgid:3687700013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时86ms。N38节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时85ms。N42节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时87ms。N3节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时86ms。N38节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时89ms。N0节点已将msgid:3687700013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时87ms。N43节点已将msgid:3687700013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时80ms。N12节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时89ms。N0节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时87ms。N43节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时80ms。N12节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时85ms。N18节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时85ms。N18节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时82ms。N48节点已将msgid:3687700013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时79ms。N1节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时82ms。N48节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时79ms。N1节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时84ms。N47节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时84ms。N47节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为66ms。reply完毕,用时86ms。N45节点已将msgid:3687700013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时85ms。N2节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为66ms。reply完毕,用时86ms。N45节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时85ms。N2节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时83ms。N5节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时83ms。N5节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时80ms。N7节点已将msgid:3687700013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时86ms。N49节点已将msgid:3687700013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时86ms。N13节点已将msgid:3687700013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时87ms。N36节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时80ms。N7节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时86ms。N49节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时86ms。N13节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时87ms。N36节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为84ms。reply完毕,用时98ms。N46节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为84ms。reply完毕,用时98ms。N46节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为105ms。reply完毕,用时115ms。N25节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为105ms。reply完毕,用时115ms。N25节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为108ms。reply完毕,用时120ms。N28节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为108ms。reply完毕,用时120ms。N28节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为50ms。reply完毕,用时121ms。N31节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为50ms。reply完毕,用时121ms。N31节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为111ms。reply完毕,用时126ms。N27节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为111ms。reply完毕,用时126ms。N27节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为111ms。reply完毕,用时126ms。N34节点已将msgid:3687700013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为111ms。reply完毕,用时127ms。N29节点已将msgid:3687700013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为111ms。reply完毕,用时126ms。N20节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为111ms。reply完毕,用时126ms。N34节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为111ms。reply完毕,用时119ms。N35节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为111ms。reply完毕,用时127ms。N29节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为111ms。reply完毕,用时126ms。N20节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为111ms。reply完毕,用时119ms。N35节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为108ms。reply完毕,用时126ms。N22节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为108ms。reply完毕,用时126ms。N22节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为109ms。reply完毕,用时125ms。N30节点已将msgid:3687700013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为109ms。reply完毕,用时121ms。N44节点已将msgid:3687700013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为107ms。reply完毕,用时121ms。N24节点已将msgid:3687700013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为111ms。reply完毕,用时127ms。N21节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为109ms。reply完毕,用时125ms。N30节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为109ms。reply完毕,用时121ms。N44节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为107ms。reply完毕,用时121ms。N24节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为111ms。reply完毕,用时127ms。N21节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为44ms。reply完毕,用时128ms。N10节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为44ms。reply完毕,用时128ms。N10节点已将msgid:3687700013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为111ms。reply完毕,用时127ms。N23节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为111ms。reply完毕,用时127ms。N23节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为112ms。reply完毕,用时128ms。N39节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为112ms。reply完毕,用时128ms。N39节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为112ms。reply完毕,用时128ms。N33节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为112ms。reply完毕,用时128ms。N33节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为113ms。reply完毕,用时129ms。N32节点已将msgid:3687700013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为113ms。reply完毕,用时129ms。N32节点已将msgid:3687700013存入本地消息池中.
+准备接受信息了
+读取./clientfile/req4.txt成功！
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为20ms。reply完毕,用时35ms。N45节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为20ms。reply完毕,用时35ms。N45节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为55ms。reply完毕,用时70ms。N23节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为55ms。reply完毕,用时70ms。N23节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为53ms。reply完毕,用时62ms。N49节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为53ms。reply完毕,用时62ms。N49节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为57ms。reply完毕,用时72ms。N7节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为57ms。reply完毕,用时72ms。N7节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为58ms。reply完毕,用时73ms。N43节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为58ms。reply完毕,用时73ms。N43节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为72ms。reply完毕,用时86ms。N21节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为72ms。reply完毕,用时86ms。N21节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时88ms。N33节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时88ms。N33节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时88ms。N27节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时89ms。N39节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时88ms。N27节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时89ms。N39节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时82ms。N9节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时88ms。N13节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时84ms。N11节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时91ms。N5节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时82ms。N9节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时88ms。N13节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时84ms。N11节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时91ms。N5节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时91ms。N37节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时90ms。N38节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时91ms。N28节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时91ms。N37节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时90ms。N38节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时91ms。N28节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时91ms。N25节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时91ms。N25节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时91ms。N35节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时91ms。N31节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时91ms。N35节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时91ms。N31节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时90ms。N36节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时90ms。N10节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为71ms。reply完毕,用时91ms。N44节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时90ms。N36节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时90ms。N10节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为71ms。reply完毕,用时91ms。N44节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为72ms。reply完毕,用时91ms。N48节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为72ms。reply完毕,用时91ms。N48节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时88ms。N22节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时88ms。N22节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为71ms。reply完毕,用时85ms。N32节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为71ms。reply完毕,用时85ms。N32节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为76ms。reply完毕,用时88ms。N16节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为76ms。reply完毕,用时88ms。N16节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时82ms。N40节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时90ms。N17节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时91ms。N46节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为76ms。reply完毕,用时92ms。N12节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时83ms。N15节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为76ms。reply完毕,用时91ms。N1节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时82ms。N40节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时90ms。N17节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时91ms。N46节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为76ms。reply完毕,用时92ms。N12节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时83ms。N15节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为76ms。reply完毕,用时91ms。N1节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时95ms。N0节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为73ms。reply完毕,用时85ms。N2节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时95ms。N0节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为73ms。reply完毕,用时85ms。N2节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为76ms。reply完毕,用时91ms。N24节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时85ms。N42节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为76ms。reply完毕,用时91ms。N24节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时85ms。N42节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为8ms。reply完毕,用时82ms。N34节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为8ms。reply完毕,用时82ms。N34节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时91ms。N41节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为74ms。reply完毕,用时91ms。N41节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为10ms。reply完毕,用时92ms。N26节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为10ms。reply完毕,用时92ms。N26节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为73ms。reply完毕,用时91ms。N29节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为76ms。reply完毕,用时89ms。N6节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为76ms。reply完毕,用时91ms。N3节点已将msgid:3173136013存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为72ms。reply完毕,用时83ms。N8节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为73ms。reply完毕,用时91ms。N29节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为76ms。reply完毕,用时89ms。N6节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为76ms。reply完毕,用时91ms。N3节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为72ms。reply完毕,用时83ms。N8节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为76ms。reply完毕,用时90ms。N4节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为76ms。reply完毕,用时90ms。N4节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时83ms。N47节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时83ms。N47节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为73ms。reply完毕,用时83ms。N18节点已将msgid:3173136013存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为73ms。reply完毕,用时83ms。N18节点已将msgid:3173136013存入本地消息池中.
+准备接受信息了
+读取./clientfile/req5.txt成功！
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时68ms。N13节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为22ms。reply完毕,用时68ms。N13节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为27ms。reply完毕,用时71ms。N9节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为27ms。reply完毕,用时71ms。N9节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为28ms。reply完毕,用时72ms。N47节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为28ms。reply完毕,用时72ms。N47节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为54ms。reply完毕,用时125ms。N18节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为54ms。reply完毕,用时125ms。N18节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时124ms。N35节点已将msgid:9356610556存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时126ms。N49节点已将msgid:9356610556存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为62ms。reply完毕,用时125ms。N20节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时124ms。N35节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时126ms。N49节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为62ms。reply完毕,用时125ms。N20节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时120ms。N48节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时120ms。N48节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时127ms。N32节点已将msgid:9356610556存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时124ms。N5节点已将msgid:9356610556存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为62ms。reply完毕,用时125ms。N30节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时127ms。N32节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时124ms。N5节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为62ms。reply完毕,用时125ms。N30节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时125ms。N8节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时125ms。N8节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时126ms。N15节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时126ms。N15节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时120ms。N7节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时120ms。N7节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为78ms。reply完毕,用时126ms。N19节点已将msgid:9356610556存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时127ms。N42节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为78ms。reply完毕,用时126ms。N19节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时127ms。N42节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为66ms。reply完毕,用时131ms。N0节点已将msgid:9356610556存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时128ms。N22节点已将msgid:9356610556存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时125ms。N34节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为66ms。reply完毕,用时131ms。N0节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时128ms。N22节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时125ms。N34节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时126ms。N40节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时126ms。N40节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时125ms。N1节点已将msgid:9356610556存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时127ms。N21节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时125ms。N1节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时127ms。N21节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时125ms。N12节点已将msgid:9356610556存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时125ms。N26节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时125ms。N12节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时125ms。N26节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时120ms。N41节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时120ms。N41节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时125ms。N44节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时125ms。N44节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为76ms。reply完毕,用时126ms。N14节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为76ms。reply完毕,用时126ms。N14节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时127ms。N2节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时127ms。N2节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时126ms。N37节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时126ms。N37节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时122ms。N46节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时122ms。N46节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时129ms。N11节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时129ms。N11节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时126ms。N31节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时126ms。N31节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时123ms。N27节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时123ms。N27节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为85ms。reply完毕,用时129ms。N25节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为85ms。reply完毕,用时129ms。N25节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为86ms。reply完毕,用时132ms。N16节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为86ms。reply完毕,用时132ms。N16节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为6ms。reply完毕,用时126ms。N45节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为6ms。reply完毕,用时126ms。N45节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为7ms。reply完毕,用时126ms。N29节点已将msgid:9356610556存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为7ms。reply完毕,用时126ms。N29节点已将msgid:9356610556存入本地消息池中.
+准备接受信息了
+读取./clientfile/req6.txt成功！
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为77ms。reply完毕,用时91ms。N32节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为77ms。reply完毕,用时91ms。N32节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为77ms。reply完毕,用时98ms。N26节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为77ms。reply完毕,用时98ms。N26节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为76ms。reply完毕,用时93ms。N27节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为76ms。reply完毕,用时93ms。N27节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为77ms。reply完毕,用时99ms。N25节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为77ms。reply完毕,用时99ms。N25节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时99ms。N28节点已将msgid:5783344062存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时93ms。N20节点已将msgid:5783344062存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为79ms。reply完毕,用时100ms。N37节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时99ms。N28节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为75ms。reply完毕,用时93ms。N20节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为79ms。reply完毕,用时100ms。N37节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为73ms。reply完毕,用时96ms。N24节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为73ms。reply完毕,用时96ms。N24节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时99ms。N35节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时99ms。N35节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时99ms。N6节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时99ms。N6节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时97ms。N14节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时97ms。N14节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时102ms。N46节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时102ms。N46节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时98ms。N22节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时98ms。N22节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时97ms。N16节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时97ms。N16节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时99ms。N10节点已将msgid:5783344062存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时96ms。N18节点已将msgid:5783344062存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为85ms。reply完毕,用时101ms。N41节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时99ms。N10节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时96ms。N18节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为84ms。reply完毕,用时98ms。N33节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为85ms。reply完毕,用时101ms。N41节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为84ms。reply完毕,用时98ms。N33节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时105ms。N44节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时105ms。N44节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时98ms。N40节点已将msgid:5783344062存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时99ms。N4节点已将msgid:5783344062存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时95ms。N34节点已将msgid:5783344062存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时96ms。N15节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时98ms。N40节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时99ms。N11节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时99ms。N4节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时95ms。N34节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时96ms。N15节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时99ms。N11节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时99ms。N43节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时99ms。N43节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为84ms。reply完毕,用时99ms。N48节点已将msgid:5783344062存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时98ms。N42节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为84ms。reply完毕,用时99ms。N48节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时98ms。N42节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时100ms。N39节点已将msgid:5783344062存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时103ms。N31节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时100ms。N39节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时103ms。N31节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时100ms。N45节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为80ms。reply完毕,用时100ms。N45节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为77ms。reply完毕,用时99ms。N13节点已将msgid:5783344062存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时98ms。N30节点已将msgid:5783344062存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时98ms。N49节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为77ms。reply完毕,用时99ms。N13节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为81ms。reply完毕,用时98ms。N30节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时98ms。N49节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时103ms。N29节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时103ms。N29节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时99ms。N17节点已将msgid:5783344062存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为86ms。reply完毕,用时116ms。N0节点已将msgid:5783344062存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为84ms。reply完毕,用时97ms。N2节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时99ms。N17节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为86ms。reply完毕,用时116ms。N0节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为84ms。reply完毕,用时97ms。N2节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为84ms。reply完毕,用时101ms。N38节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为84ms。reply完毕,用时101ms。N38节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为84ms。reply完毕,用时108ms。N5节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为84ms。reply完毕,用时108ms。N5节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时107ms。N12节点已将msgid:5783344062存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时101ms。N3节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时107ms。N12节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时101ms。N3节点已将msgid:5783344062存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时99ms。N9节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时99ms。N9节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为86ms。reply完毕,用时101ms。N23节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为86ms。reply完毕,用时101ms。N23节点已将msgid:5783344062存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时97ms。N47节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时97ms。N47节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为84ms。reply完毕,用时98ms。N19节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为84ms。reply完毕,用时98ms。N19节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为86ms。reply完毕,用时106ms。N1节点已将msgid:5783344062存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为86ms。reply完毕,用时100ms。N36节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为86ms。reply完毕,用时106ms。N1节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为86ms。reply完毕,用时100ms。N36节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时100ms。N21节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为82ms。reply完毕,用时100ms。N21节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为88ms。reply完毕,用时103ms。N7节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为88ms。reply完毕,用时103ms。N7节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时99ms。N8节点已将msgid:5783344062存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为21ms。reply完毕,用时99ms。N8节点已将msgid:5783344062存入本地消息池中.
+准备接受信息了
+读取./clientfile/req7.txt成功！
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为25ms。reply完毕,用时44ms。N34节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为25ms。reply完毕,用时44ms。N34节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为53ms。reply完毕,用时77ms。N11节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为53ms。reply完毕,用时77ms。N11节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为57ms。reply完毕,用时80ms。N2节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为57ms。reply完毕,用时80ms。N2节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为59ms。reply完毕,用时79ms。N32节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为59ms。reply完毕,用时79ms。N32节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为62ms。reply完毕,用时83ms。N16节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为62ms。reply完毕,用时83ms。N16节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为66ms。reply完毕,用时83ms。N41节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时94ms。N36节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时96ms。N33节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为66ms。reply完毕,用时83ms。N41节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时94ms。N36节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时96ms。N33节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时90ms。N20节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时90ms。N20节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时96ms。N3节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时95ms。N23节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时96ms。N3节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时95ms。N23节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为66ms。reply完毕,用时93ms。N27节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为66ms。reply完毕,用时93ms。N27节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时89ms。N8节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时89ms。N8节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时94ms。N38节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时94ms。N38节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时113ms。N0节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时94ms。N4节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时113ms。N0节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时94ms。N4节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时86ms。N37节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时86ms。N37节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时83ms。N7节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时83ms。N7节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时87ms。N30节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时89ms。N9节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时96ms。N39节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时87ms。N30节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时89ms。N9节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时96ms。N39节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时85ms。N48节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时85ms。N48节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时95ms。N29节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为65ms。reply完毕,用时84ms。N24节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为66ms。reply完毕,用时84ms。N35节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为71ms。reply完毕,用时94ms。N45节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时95ms。N29节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为65ms。reply完毕,用时84ms。N24节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为66ms。reply完毕,用时84ms。N35节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为71ms。reply完毕,用时94ms。N45节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时91ms。N22节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时91ms。N22节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时91ms。N21节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时91ms。N21节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时87ms。N47节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时89ms。N14节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时92ms。N13节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时88ms。N18节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时87ms。N47节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时89ms。N14节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时92ms。N13节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为68ms。reply完毕,用时88ms。N18节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时84ms。N31节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时84ms。N31节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时86ms。N12节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时86ms。N12节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为66ms。reply完毕,用时87ms。N5节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时93ms。N17节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为66ms。reply完毕,用时87ms。N5节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时93ms。N17节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时87ms。N26节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为66ms。reply完毕,用时86ms。N25节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时87ms。N26节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为66ms。reply完毕,用时86ms。N25节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时93ms。N6节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为63ms。reply完毕,用时87ms。N1节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时93ms。N6节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为63ms。reply完毕,用时87ms。N1节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时91ms。N15节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时91ms。N15节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时98ms。N10节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时94ms。N42节点已将msgid:7439018036存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为71ms。reply完毕,用时95ms。N43节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为67ms。reply完毕,用时98ms。N10节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时94ms。N42节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为71ms。reply完毕,用时95ms。N43节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为72ms。reply完毕,用时91ms。N49节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为72ms。reply完毕,用时91ms。N49节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时85ms。N28节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为70ms。reply完毕,用时85ms。N28节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为72ms。reply完毕,用时91ms。N40节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为72ms。reply完毕,用时91ms。N40节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时85ms。N44节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为69ms。reply完毕,用时85ms。N44节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为66ms。reply完毕,用时84ms。N46节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为66ms。reply完毕,用时84ms。N46节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为13ms。reply完毕,用时89ms。N19节点已将msgid:7439018036存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为13ms。reply完毕,用时89ms。N19节点已将msgid:7439018036存入本地消息池中.
+准备接受信息了
+读取./clientfile/req8.txt成功！
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为134ms。reply完毕,用时210ms。N43节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为134ms。reply完毕,用时210ms。N43节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为84ms。reply完毕,用时202ms。N40节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为84ms。reply完毕,用时202ms。N40节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为182ms。reply完毕,用时207ms。N42节点已将msgid:6936355206存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为176ms。reply完毕,用时203ms。N30节点已将msgid:6936355206存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为182ms。reply完毕,用时212ms。N29节点已将msgid:6936355206存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为182ms。reply完毕,用时209ms。N36节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为182ms。reply完毕,用时207ms。N42节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为176ms。reply完毕,用时203ms。N30节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为182ms。reply完毕,用时212ms。N29节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为182ms。reply完毕,用时209ms。N36节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为184ms。reply完毕,用时216ms。N31节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为184ms。reply完毕,用时216ms。N31节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为182ms。reply完毕,用时211ms。N33节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为182ms。reply完毕,用时211ms。N33节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为183ms。reply完毕,用时213ms。N46节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为183ms。reply完毕,用时213ms。N46节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为184ms。reply完毕,用时209ms。N45节点已将msgid:6936355206存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为185ms。reply完毕,用时212ms。N28节点已将msgid:6936355206存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为185ms。reply完毕,用时205ms。N49节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为184ms。reply完毕,用时209ms。N45节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为185ms。reply完毕,用时212ms。N28节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为185ms。reply完毕,用时205ms。N49节点已将msgid:6936355206存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为179ms。reply完毕,用时206ms。N22节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为179ms。reply完毕,用时206ms。N22节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为183ms。reply完毕,用时219ms。N26节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为183ms。reply完毕,用时219ms。N26节点已将msgid:6936355206存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为184ms。reply完毕,用时210ms。N27节点已将msgid:6936355206存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为184ms。reply完毕,用时206ms。N32节点已将msgid:6936355206存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为183ms。reply完毕,用时205ms。N19节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为182ms。reply完毕,用时214ms。N48节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为184ms。reply完毕,用时210ms。N27节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为184ms。reply完毕,用时206ms。N32节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为183ms。reply完毕,用时205ms。N19节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为182ms。reply完毕,用时214ms。N48节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为179ms。reply完毕,用时224ms。N25节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为179ms。reply完毕,用时224ms。N25节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为180ms。reply完毕,用时220ms。N37节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为180ms。reply完毕,用时220ms。N37节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为184ms。reply完毕,用时211ms。N38节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为184ms。reply完毕,用时211ms。N38节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为178ms。reply完毕,用时213ms。N39节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为178ms。reply完毕,用时213ms。N39节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为178ms。reply完毕,用时202ms。N47节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为178ms。reply完毕,用时202ms。N47节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为187ms。reply完毕,用时217ms。N35节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为187ms。reply完毕,用时217ms。N35节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为187ms。reply完毕,用时217ms。N41节点已将msgid:6936355206存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为183ms。reply完毕,用时221ms。N44节点已将msgid:6936355206存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为186ms。reply完毕,用时218ms。N12节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为187ms。reply完毕,用时217ms。N41节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为186ms。reply完毕,用时208ms。N16节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为183ms。reply完毕,用时221ms。N44节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为186ms。reply完毕,用时218ms。N12节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为186ms。reply完毕,用时208ms。N16节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为183ms。reply完毕,用时207ms。N14节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为183ms。reply完毕,用时207ms。N14节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为186ms。reply完毕,用时211ms。N4节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为186ms。reply完毕,用时211ms。N4节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为187ms。reply完毕,用时252ms。N0节点已将msgid:6936355206存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为179ms。reply完毕,用时207ms。N18节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为187ms。reply完毕,用时252ms。N0节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为179ms。reply完毕,用时207ms。N18节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为187ms。reply完毕,用时216ms。N7节点已将msgid:6936355206存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为183ms。reply完毕,用时204ms。N8节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为187ms。reply完毕,用时216ms。N7节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为183ms。reply完毕,用时204ms。N8节点已将msgid:6936355206存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为187ms。reply完毕,用时211ms。N6节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为187ms。reply完毕,用时211ms。N6节点已将msgid:6936355206存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为183ms。reply完毕,用时223ms。N1节点已将msgid:6936355206存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为187ms。reply完毕,用时220ms。N5节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为183ms。reply完毕,用时223ms。N1节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为187ms。reply完毕,用时220ms。N5节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为175ms。reply完毕,用时206ms。N34节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为175ms。reply完毕,用时206ms。N34节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为183ms。reply完毕,用时209ms。N11节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为183ms。reply完毕,用时209ms。N11节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为188ms。reply完毕,用时217ms。N24节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为188ms。reply完毕,用时217ms。N24节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为184ms。reply完毕,用时208ms。N20节点已将msgid:6936355206存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为188ms。reply完毕,用时214ms。N23节点已将msgid:6936355206存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为179ms。reply完毕,用时210ms。N21节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为184ms。reply完毕,用时208ms。N20节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为188ms。reply完毕,用时214ms。N23节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为179ms。reply完毕,用时210ms。N21节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为187ms。reply完毕,用时217ms。N3节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为187ms。reply完毕,用时217ms。N3节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为181ms。reply完毕,用时209ms。N15节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为181ms。reply完毕,用时209ms。N15节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为186ms。reply完毕,用时211ms。N13节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为186ms。reply完毕,用时211ms。N13节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为6ms。reply完毕,用时213ms。N17节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为6ms。reply完毕,用时213ms。N17节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为177ms。reply完毕,用时205ms。N9节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为177ms。reply完毕,用时205ms。N9节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为185ms。reply完毕,用时213ms。N2节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为185ms。reply完毕,用时213ms。N2节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为190ms。reply完毕,用时219ms。N10节点已将msgid:6936355206存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为190ms。reply完毕,用时219ms。N10节点已将msgid:6936355206存入本地消息池中.
+准备接受信息了
+读取./clientfile/req9.txt成功！
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为102ms。reply完毕,用时154ms。N21节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为102ms。reply完毕,用时154ms。N21节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为129ms。reply完毕,用时164ms。N25节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为129ms。reply完毕,用时164ms。N25节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为136ms。reply完毕,用时180ms。N23节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为136ms。reply完毕,用时180ms。N23节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为153ms。reply完毕,用时190ms。N5节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为153ms。reply完毕,用时190ms。N5节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为155ms。reply完毕,用时194ms。N1节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为155ms。reply完毕,用时194ms。N1节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为145ms。reply完毕,用时178ms。N27节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为145ms。reply完毕,用时178ms。N27节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为145ms。reply完毕,用时190ms。N24节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为145ms。reply完毕,用时190ms。N24节点已将msgid:6140584743存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为153ms。reply完毕,用时258ms。N0节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为153ms。reply完毕,用时258ms。N0节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为152ms。reply完毕,用时210ms。N2节点已将msgid:6140584743存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为157ms。reply完毕,用时193ms。N12节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为152ms。reply完毕,用时210ms。N2节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为157ms。reply完毕,用时193ms。N12节点已将msgid:6140584743存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为151ms。reply完毕,用时190ms。N7节点已将msgid:6140584743存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为148ms。reply完毕,用时198ms。N26节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为151ms。reply完毕,用时190ms。N7节点已将msgid:6140584743存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为159ms。reply完毕,用时194ms。N46节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为148ms。reply完毕,用时198ms。N26节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为159ms。reply完毕,用时194ms。N46节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为152ms。reply完毕,用时209ms。N20节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为152ms。reply完毕,用时209ms。N20节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为213ms。reply完毕,用时250ms。N28节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为213ms。reply完毕,用时250ms。N28节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为215ms。reply完毕,用时248ms。N36节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为215ms。reply完毕,用时248ms。N36节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为214ms。reply完毕,用时263ms。N34节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为214ms。reply完毕,用时263ms。N34节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为217ms。reply完毕,用时276ms。N32节点已将msgid:6140584743存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为201ms。reply完毕,用时246ms。N38节点已将msgid:6140584743存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为222ms。reply完毕,用时259ms。N9节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为217ms。reply完毕,用时276ms。N32节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为201ms。reply完毕,用时246ms。N38节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为222ms。reply完毕,用时259ms。N9节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为220ms。reply完毕,用时262ms。N14节点已将msgid:6140584743存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为213ms。reply完毕,用时260ms。N37节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为220ms。reply完毕,用时262ms。N14节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为213ms。reply完毕,用时260ms。N37节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为224ms。reply完毕,用时262ms。N47节点已将msgid:6140584743存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为221ms。reply完毕,用时267ms。N19节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为224ms。reply完毕,用时262ms。N47节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为221ms。reply完毕,用时267ms。N19节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为223ms。reply完毕,用时252ms。N48节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为223ms。reply完毕,用时252ms。N48节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为221ms。reply完毕,用时251ms。N39节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为221ms。reply完毕,用时251ms。N39节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为222ms。reply完毕,用时271ms。N13节点已将msgid:6140584743存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为206ms。reply完毕,用时245ms。N17节点已将msgid:6140584743存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为219ms。reply完毕,用时254ms。N31节点已将msgid:6140584743存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为209ms。reply完毕,用时252ms。N3节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为222ms。reply完毕,用时271ms。N13节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为206ms。reply完毕,用时245ms。N17节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为219ms。reply完毕,用时254ms。N31节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为209ms。reply完毕,用时252ms。N3节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为225ms。reply完毕,用时261ms。N8节点已将msgid:6140584743存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为220ms。reply完毕,用时260ms。N41节点已将msgid:6140584743存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为225ms。reply完毕,用时278ms。N22节点已将msgid:6140584743存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为222ms。reply完毕,用时272ms。N11节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为225ms。reply完毕,用时261ms。N8节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为224ms。reply完毕,用时270ms。N18节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为220ms。reply完毕,用时260ms。N41节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为225ms。reply完毕,用时278ms。N22节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为222ms。reply完毕,用时272ms。N11节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为224ms。reply完毕,用时270ms。N18节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为218ms。reply完毕,用时253ms。N29节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为218ms。reply完毕,用时253ms。N29节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为226ms。reply完毕,用时260ms。N35节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为226ms。reply完毕,用时260ms。N35节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为215ms。reply完毕,用时249ms。N6节点已将msgid:6140584743存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为224ms。reply完毕,用时270ms。N16节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为215ms。reply完毕,用时249ms。N6节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为224ms。reply完毕,用时270ms。N16节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为224ms。reply完毕,用时267ms。N30节点已将msgid:6140584743存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为227ms。reply完毕,用时271ms。N15节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为224ms。reply完毕,用时267ms。N30节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为227ms。reply完毕,用时271ms。N15节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为207ms。reply完毕,用时248ms。N4节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为207ms。reply完毕,用时248ms。N4节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为225ms。reply完毕,用时271ms。N49节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为225ms。reply完毕,用时271ms。N49节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为214ms。reply完毕,用时255ms。N33节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为214ms。reply完毕,用时255ms。N33节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为216ms。reply完毕,用时252ms。N10节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为216ms。reply完毕,用时252ms。N10节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为225ms。reply完毕,用时280ms。N42节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为225ms。reply完毕,用时280ms。N42节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为225ms。reply完毕,用时266ms。N44节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为225ms。reply完毕,用时266ms。N44节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为226ms。reply完毕,用时274ms。N40节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为226ms。reply完毕,用时274ms。N40节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为217ms。reply完毕,用时253ms。N43节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为217ms。reply完毕,用时253ms。N43节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为216ms。reply完毕,用时258ms。N45节点已将msgid:6140584743存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为216ms。reply完毕,用时258ms。N45节点已将msgid:6140584743存入本地消息池中.
+准备接受信息了
+读取./clientfile/req10.txt成功！
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为104ms。reply完毕,用时174ms。N13节点已将msgid:8584802038存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时161ms。N9节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为104ms。reply完毕,用时174ms。N13节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为83ms。reply完毕,用时161ms。N9节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为129ms。reply完毕,用时190ms。N19节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为129ms。reply完毕,用时190ms。N19节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为173ms。reply完毕,用时230ms。N1节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为173ms。reply完毕,用时230ms。N1节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为164ms。reply完毕,用时233ms。N18节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为164ms。reply完毕,用时233ms。N18节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为182ms。reply完毕,用时251ms。N17节点已将msgid:8584802038存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为183ms。reply完毕,用时252ms。N22节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为182ms。reply完毕,用时251ms。N17节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为183ms。reply完毕,用时252ms。N22节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为184ms。reply完毕,用时236ms。N14节点已将msgid:8584802038存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为163ms。reply完毕,用时238ms。N34节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为184ms。reply完毕,用时236ms。N14节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为163ms。reply完毕,用时238ms。N34节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为177ms。reply完毕,用时254ms。N2节点已将msgid:8584802038存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为186ms。reply完毕,用时257ms。N6节点已将msgid:8584802038存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为181ms。reply完毕,用时237ms。N8节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为177ms。reply完毕,用时254ms。N2节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为186ms。reply完毕,用时257ms。N6节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为181ms。reply完毕,用时237ms。N8节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为166ms。reply完毕,用时253ms。N4节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为166ms。reply完毕,用时253ms。N4节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为169ms。reply完毕,用时235ms。N44节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为169ms。reply完毕,用时235ms。N44节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为181ms。reply完毕,用时273ms。N10节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为181ms。reply完毕,用时273ms。N10节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为189ms。reply完毕,用时267ms。N29节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为189ms。reply完毕,用时267ms。N29节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为188ms。reply完毕,用时348ms。N0节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为188ms。reply完毕,用时348ms。N0节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为187ms。reply完毕,用时238ms。N47节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为187ms。reply完毕,用时238ms。N47节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为171ms。reply完毕,用时237ms。N5节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为171ms。reply完毕,用时237ms。N5节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为182ms。reply完毕,用时285ms。N46节点已将msgid:8584802038存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为186ms。reply完毕,用时281ms。N7节点已将msgid:8584802038存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为171ms。reply完毕,用时237ms。N12节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为182ms。reply完毕,用时285ms。N46节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为186ms。reply完毕,用时281ms。N7节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为171ms。reply完毕,用时237ms。N12节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为173ms。reply完毕,用时253ms。N15节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为173ms。reply完毕,用时253ms。N15节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为184ms。reply完毕,用时259ms。N45节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为184ms。reply完毕,用时259ms。N45节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为193ms。reply完毕,用时262ms。N36节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为193ms。reply完毕,用时262ms。N36节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为189ms。reply完毕,用时248ms。N49节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为189ms。reply完毕,用时248ms。N49节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为188ms。reply完毕,用时259ms。N42节点已将msgid:8584802038存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为189ms。reply完毕,用时260ms。N16节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为188ms。reply完毕,用时259ms。N42节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为189ms。reply完毕,用时260ms。N16节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为181ms。reply完毕,用时261ms。N43节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为181ms。reply完毕,用时261ms。N43节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为192ms。reply完毕,用时286ms。N48节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为192ms。reply完毕,用时286ms。N48节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为196ms。reply完毕,用时287ms。N41节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为196ms。reply完毕,用时287ms。N41节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为185ms。reply完毕,用时254ms。N40节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为185ms。reply完毕,用时254ms。N40节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为198ms。reply完毕,用时254ms。N11节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为198ms。reply完毕,用时254ms。N11节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为195ms。reply完毕,用时281ms。N3节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为195ms。reply完毕,用时281ms。N3节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为191ms。reply完毕,用时267ms。N38节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为191ms。reply完毕,用时267ms。N38节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为188ms。reply完毕,用时269ms。N27节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为188ms。reply完毕,用时269ms。N27节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为194ms。reply完毕,用时281ms。N35节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为194ms。reply完毕,用时281ms。N35节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为195ms。reply完毕,用时261ms。N21节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为195ms。reply完毕,用时261ms。N21节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为194ms。reply完毕,用时281ms。N23节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为194ms。reply完毕,用时281ms。N23节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为196ms。reply完毕,用时278ms。N31节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为196ms。reply完毕,用时278ms。N31节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为185ms。reply完毕,用时246ms。N26节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为185ms。reply完毕,用时246ms。N26节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为184ms。reply完毕,用时248ms。N25节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为184ms。reply完毕,用时248ms。N25节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为201ms。reply完毕,用时279ms。N33节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为201ms。reply完毕,用时279ms。N33节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为189ms。reply完毕,用时290ms。N28节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为189ms。reply完毕,用时290ms。N28节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为187ms。reply完毕,用时253ms。N37节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为187ms。reply完毕,用时253ms。N37节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为201ms。reply完毕,用时287ms。N24节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为201ms。reply完毕,用时287ms。N24节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为203ms。reply完毕,用时280ms。N39节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为203ms。reply完毕,用时280ms。N39节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为202ms。reply完毕,用时274ms。N32节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为202ms。reply完毕,用时274ms。N32节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为196ms。reply完毕,用时268ms。N20节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为196ms。reply完毕,用时268ms。N20节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为201ms。reply完毕,用时261ms。N30节点已将msgid:8584802038存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为201ms。reply完毕,用时261ms。N30节点已将msgid:8584802038存入本地消息池中.
+准备接受信息了
+读取./clientfile/req11.txt成功！
+已发送%d次请求，结束共识。 12
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为124ms。reply完毕,用时234ms。N11节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为124ms。reply完毕,用时234ms。N11节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为153ms。reply完毕,用时270ms。N16节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为153ms。reply完毕,用时270ms。N16节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为197ms。reply完毕,用时336ms。N12节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为197ms。reply完毕,用时336ms。N12节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为201ms。reply完毕,用时340ms。N41节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为201ms。reply完毕,用时340ms。N41节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为224ms。reply完毕,用时333ms。N4节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为224ms。reply完毕,用时333ms。N4节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为224ms。reply完毕,用时371ms。N31节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为224ms。reply完毕,用时371ms。N31节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为221ms。reply完毕,用时373ms。N6节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为221ms。reply完毕,用时373ms。N6节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为269ms。reply完毕,用时419ms。N5节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为269ms。reply完毕,用时419ms。N5节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为271ms。reply完毕,用时429ms。N25节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为271ms。reply完毕,用时429ms。N25节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为277ms。reply完毕,用时388ms。N21节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为277ms。reply完毕,用时388ms。N21节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为266ms。reply完毕,用时549ms。N0节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为266ms。reply完毕,用时549ms。N0节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为275ms。reply完毕,用时367ms。N40节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为275ms。reply完毕,用时367ms。N40节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为259ms。reply完毕,用时369ms。N18节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为259ms。reply完毕,用时369ms。N18节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为278ms。reply完毕,用时410ms。N38节点已将msgid:8318706403存入本地消息池中.
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为289ms。reply完毕,用时411ms。N3节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为278ms。reply完毕,用时410ms。N38节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+接受到的信息是： 把接受到的消息写入.db数据库延迟为289ms。reply完毕,用时411ms。N3节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为290ms。reply完毕,用时413ms。N10节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为290ms。reply完毕,用时413ms。N10节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为288ms。reply完毕,用时378ms。N47节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为288ms。reply完毕,用时378ms。N47节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为290ms。reply完毕,用时425ms。N28节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为290ms。reply完毕,用时425ms。N28节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为276ms。reply完毕,用时388ms。N13节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为276ms。reply完毕,用时388ms。N13节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为296ms。reply完毕,用时411ms。N23节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为296ms。reply完毕,用时411ms。N23节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为283ms。reply完毕,用时422ms。N29节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为283ms。reply完毕,用时422ms。N29节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为285ms。reply完毕,用时417ms。N43节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为285ms。reply完毕,用时417ms。N43节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为274ms。reply完毕,用时407ms。N17节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为274ms。reply完毕,用时407ms。N17节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为295ms。reply完毕,用时420ms。N36节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为295ms。reply完毕,用时420ms。N36节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为303ms。reply完毕,用时458ms。N26节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为303ms。reply完毕,用时458ms。N26节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为290ms。reply完毕,用时383ms。N9节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为290ms。reply完毕,用时383ms。N9节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为279ms。reply完毕,用时394ms。N49节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为279ms。reply完毕,用时394ms。N49节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为287ms。reply完毕,用时406ms。N2节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为287ms。reply完毕,用时406ms。N2节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为288ms。reply完毕,用时445ms。N1节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为288ms。reply完毕,用时445ms。N1节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为287ms。reply完毕,用时390ms。N8节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为287ms。reply完毕,用时390ms。N8节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为303ms。reply完毕,用时445ms。N35节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为303ms。reply完毕,用时445ms。N35节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为280ms。reply完毕,用时416ms。N32节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为280ms。reply完毕,用时416ms。N32节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为300ms。reply完毕,用时421ms。N39节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为300ms。reply完毕,用时421ms。N39节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为303ms。reply完毕,用时461ms。N37节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为303ms。reply完毕,用时461ms。N37节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为312ms。reply完毕,用时422ms。N27节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为312ms。reply完毕,用时422ms。N27节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为294ms。reply完毕,用时441ms。N7节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为294ms。reply完毕,用时441ms。N7节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为296ms。reply完毕,用时450ms。N48节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为296ms。reply完毕,用时450ms。N48节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为295ms。reply完毕,用时462ms。N44节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为295ms。reply完毕,用时462ms。N44节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为302ms。reply完毕,用时421ms。N22节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为302ms。reply完毕,用时421ms。N22节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为300ms。reply完毕,用时451ms。N46节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为300ms。reply完毕,用时451ms。N46节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为279ms。reply完毕,用时400ms。N19节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为279ms。reply完毕,用时400ms。N19节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为279ms。reply完毕,用时400ms。N34节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为279ms。reply完毕,用时400ms。N34节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为279ms。reply完毕,用时401ms。N14节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为279ms。reply完毕,用时401ms。N14节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为312ms。reply完毕,用时402ms。N30节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为312ms。reply完毕,用时402ms。N30节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为308ms。reply完毕,用时444ms。N24节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为308ms。reply完毕,用时444ms。N24节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为306ms。reply完毕,用时436ms。N45节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为306ms。reply完毕,用时436ms。N45节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为273ms。reply完毕,用时408ms。N20节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为273ms。reply完毕,用时408ms。N20节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为290ms。reply完毕,用时436ms。N33节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为290ms。reply完毕,用时436ms。N33节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为301ms。reply完毕,用时422ms。N42节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为301ms。reply完毕,用时422ms。N42节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了
+tcp.go  clientTcpListen把接受到的消息写入.db数据库延迟为293ms。reply完毕,用时409ms。N15节点已将msgid:8318706403存入本地消息池中.
+接受到的信息是： 把接受到的消息写入.db数据库延迟为293ms。reply完毕,用时409ms。N15节点已将msgid:8318706403存入本地消息池中.
+准备接受信息了

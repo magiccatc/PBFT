@@ -1,0 +1,75 @@
+>参考资料：
+> - https://www.jianshu.com/p/fb5edf031afd
+> -  https://www.cnblogs.com/gexin/p/10242161.html
+
+<br>
+
+BFT4:
+2023.12.19：这份Add ->stream-encoder.go,但是还没有效生成
+2024.1.16：尝试往这份Add boltdb数据库；删除xjrpc文件夹;
+            BFT4为BFT3的副本，用于测试点对点能否存储成功。目前BFT3执行一轮共识后，并未将数据存入.db数据库
+            已解决未存入问题，因为在创建.db文件时多加了defer.close，导致后续写入没有找到.db文件入口。需配合使用BOLTDB-SIMPLETEST工程来进行读取存入数据。
+            待解决问题：1、写延迟----->已解决，在writeData()加入end.sub(start)
+                      2、吞吐量、延时等性能，还有存储空间
+2024.1.26:尝试用脚本开启节点，失败了，这份project还是按1.16号版本保存，新开一份BFT5
+
+bft5:
+2024.1.29：1、成功用脚本开启共识节点StartNodes.sh，客户端StartClient.sh.
+         2、并且成功让客户端client自己间隔5s发送请求给N0，能够在这样的情况下顺利完成共识。
+         3、配合BOLTDB-SIMPLETEST工程，可以查看到节点N0的.db文件中存储的数据。3个节点的情况下.db文件中对应的key的value被更新了，上次开5个节点的key-value并没有删除，这个问题好像不是很大，只要后续开的节点数量总是超过上一次，那么之前的键值对就会被覆盖。
+         4、下一步，把节点reply的时间以及写延迟等数据导出来
+         5、下下步，尝试分组共识。
+    1.31:已完成第4步，在windows上能通过ReadTimes.sh读取延时时间到.txt文件中。但是有个点需要注意，在开启StartNodes.sh前，必须要把后台正在使用这几个端口的PID进程结束掉，否则读出来的.log文件会出错，变成二进制文件。
+         
+
+本demo为pbft共识算法的代码实现，如果想了解pbft的详细信息请自行浏览参考资料\
+本demo展示了pbft的部分功能（没有写主节点轮循机制），写的并不严谨，仅作为对pbft的了解用途
+
+
+<br>
+
+![在这里插入图片描述](images/流程图.webp)
+## 实现功能：
+>pbft公式：  n>=3f + 1  其中n为全网总节点数量，f为最多允许的作恶、故障节点
+
+
+  数据从客户端输入，到接收到节点们的回复共分为5步
+  
+ 1. 客户端向主节点发送请求信息
+ 2. 主节点N0接收到客户端请求后将请求数据里的主要信息提出，并向其余节点进行preprepare发送
+ 3. 从节点们接收到来自主节点的preprepare，首先利用主节点的公钥进行签名认证，其次将消息进行散列（消息摘要，以便缩小信息在网络中的传输大小）后，向其他节点广播prepare
+ 4. 节点接收到2f个prepare信息（包含自己）,并全部签名验证通过，则可以进行到commit步骤，向全网其他节点广播commit
+ 5. 节点接收到2f+1个commit信息（包含自己），并全部签名验证通过，则可以把消息存入到本地，并向客户端返回reply消息
+
+<br>
+
+
+## 运行步骤：
+<br>
+
+##### 1.下载/编译
+```shell
+ git clone https://github.com/corgi-kx/blockchain_consensus_algorithm.git
+```
+```shell
+ cd blockchain_consensus_algorithm/pbft
+```
+```go
+ go build -o pbft.exe
+```
+
+##### 2.开启五个端口（一个客户端，四个节点）
+客户端执行pbft.exe client  
+其他四个节点依次执行 pbft.exe N0  pbft.exe N1  pbft.exe N2  pbft.exe N3
+![在这里插入图片描述](images/启动.png)
+##### 3.输入一段信息，看看节点之间的同步过程
+![在这里插入图片描述](images/启动后.png)
+##### 4.关闭一个节点（代表作恶、故障节点），再次输入信息，看看是否还会接收到reply
+可以看到，客户端依然会接收到reply，因为根据公式 n >= 3f+1  ，就算宕机一个节点，系统依然能顺利运行
+![](images/掉了一个节点后.png)
+##### 4.关闭两个节点（代表作恶、故障节点），再次输入信息，看看是否还会接收到reply
+可以看到，关闭两个节点后，故障节点已经超出了pbft的允许数量，消息进行到Prepare阶段由于接收不到满足数量的信息，固系统不再进行commit确认,客户端也接收不到reply
+![在这里插入图片描述](images/关闭两个节点.png)
+
+>**&ensp;&ensp;&ensp;建了个QQ群：722124200     有问题可以加群互相讨论   ：）** \
+>**&ensp;&ensp;&ensp;邮箱:mikesen1994@gmail.com  &ensp;&ensp;&ensp; vx:965952482**

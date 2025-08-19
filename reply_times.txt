@@ -1,0 +1,22 @@
+client  :
+-
+N0  :
+-Binary file logs/N0.log matches
+ 
+ 
+ 
+ 
+N1  :
+-reply完毕,用时224ms
+ 224
+N2  :
+-reply完毕,用时244ms
+ 244
+N3  :
+-reply完毕,用时184ms
+ 184
+N4  :
+-reply完毕,用时223ms
+ 223
+N5  :
+-
