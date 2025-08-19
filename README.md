@@ -44,19 +44,6 @@ bft5:
 <br>
 
 
-## 运行步骤：
-<br>
-
-##### 1.下载/编译
-```shell
- git clone https://github.com/corgi-kx/blockchain_consensus_algorithm.git
-```
-```shell
- cd blockchain_consensus_algorithm/pbft
-```
-```go
- go build -o pbft.exe
-```
 
 ##### 2.开启五个端口（一个客户端，四个节点）
 客户端执行pbft.exe client  
